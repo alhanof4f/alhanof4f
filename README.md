@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Alhanouf Al-Fadhel
 
-<!--
-**alhanof4f/alhanof4f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+🤖 Interested in Artificial Intelligence  
+🔐 Interested in Cybersecurity  
+💻 Software Development Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a Computer Science graduate with a strong interest in Artificial Intelligence and Cybersecurity.  
+I enjoy building practical software solutions and exploring how technology can be applied to solve real-world problems.
+
+I am continuously learning, experimenting, and improving my skills through hands-on projects.
+
+---
+
+## 🛠️ Technical Skills
+- Programming: JavaScript
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express
+- Database: MongoDB
+- Concepts: REST APIs, Authentication, Security Basics
+- Tools: Git, GitHub
+
+---
+
+## 📌 Interests
+- Artificial Intelligence
+- Cybersecurity
+- Software Engineering
+- Healthcare Technology
+
+---
+
+## 📫 Contact
+- Email: alhanofx2@gmail.com
+- LinkedIn: www.linkedin.com/in/alhanof-alfadhel
+
+
